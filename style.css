@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+:root{
+  --success-color: green;
+  --error-color: red:
+}
+
+* {
+  box-sizing: border-box;
+}
+
